@@ -8,11 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imdeepakdkp&label=Profile%20views&color=0e75b6&style=flat" alt="imdeepakdkp" /> </p>
 
-- 🌱 I’m currently learning **C++ Language**
+- 🌱 I’m currently learning **WEB DEV**
 
 - 📫 How to reach me **deepakkum88600@gmail.com**
 
-- ⚡ Fun fact **I talk to data more than I talk to people.**
+- ⚡ Fun fact **I think I am are mix of discipline and creativity — focused, yet full of imagination. ✨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
